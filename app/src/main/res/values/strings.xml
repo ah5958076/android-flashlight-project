@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flashlight App</string>
+    <string name="flash_light">Flash Light</string>
+    <string name="tag_line">Control your front and back flash light on single click</string>
+    <string name="front_flash_light">Front Flash Light</string>
+    <string name="back_flash_light">Back Flash Light</string>
+    <string name="back_light_error">Back Light not installed or have an issue</string>
+    <string name="front_light_error">Front Light not installed or have an issue</string>
+</resources>
