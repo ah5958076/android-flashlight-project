@@ -52,29 +52,13 @@
             android:text="@string/back_flash_light"
             tools:ignore="UseSwitchCompatOrMaterialXml" />
 
-        <TextView
-            android:id="@+id/backLightLabel"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textColor="#F45454"
-            android:visibility="gone"
-            android:text="@string/back_light_error" />
-
         <Switch
             android:id="@+id/frontLight"
             android:layout_width="match_parent"
             android:layout_height="48dp"
-            android:layout_marginTop="40dp"
+            android:layout_marginTop="20dp"
             android:text="@string/front_flash_light"
             tools:ignore="UseSwitchCompatOrMaterialXml" />
-
-        <TextView
-            android:id="@+id/frontLightLabel"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textColor="#F45454"
-            android:visibility="gone"
-            android:text="@string/front_light_error" />
 
     </LinearLayout>
 
